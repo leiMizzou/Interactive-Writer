@@ -25,6 +25,7 @@ InterActWriter is an advanced tool designed to streamline the process of generat
     - [3. Generating and Evaluating Academic Surveys](#3-generating-and-evaluating-academic-surveys)
   - [Project Structure](#project-structure)
   - [Configuration](#configuration)
+  - [Acknowledgments](#acknowledgments)
   - [Contributing](#contributing)
   - [License](#license)
   - [Contact](#contact)
@@ -309,6 +310,12 @@ You can configure various parameters through command-line arguments when running
 - `--subsection_len`: Length of each subsection in words.
 - `--outline_reference_num`: Number of references to use for outline generation.
 - `--rag_num`: Number of references to use for Retrieval-Augmented Generation (RAG).
+
+## Acknowledgments
+
+InterActWriter was inspired by and built upon the foundations laid by the [AutoSurvey](https://github.com/AutoSurveys/AutoSurvey) project. We would like to express our sincere gratitude to the authors for their pioneering work in automating survey generation using large language models.
+
+```
 
 ## Contributing
 
