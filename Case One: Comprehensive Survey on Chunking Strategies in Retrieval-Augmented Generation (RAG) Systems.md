@@ -238,9 +238,7 @@ Modular RAG frameworks represent a significant advancement in the design and imp
 
 ### 7.4 Streaming Data and Dynamic Chunking
 
----
 In retrieval-augmented generation (RAG) systems, dynamic chunking strategies are crucial for handling streaming data, which often arrives in varying sizes and formats. These strategies adaptively partition the incoming data into manageable chunks, ensuring efficient processing and retrieval. For instance, [100] proposes a dynamic chunk-based convolution method that enhances streaming speech recognition by reducing performance degradation. Similarly, [101] introduces a dynamic LSTM framework capable of handling varying feature spaces in streaming data, thereby improving temporal modeling. These techniques are essential for real-time applications where data characteristics can change rapidly, requiring RAG systems to dynamically adjust their chunking mechanisms to maintain optimal performance. The integration of such dynamic chunking strategies into modular RAG frameworks further enhances their flexibility and scalability, enabling them to handle diverse and dynamic application scenarios more effectively.
----
 
 ### 7.5 Automated Evaluation and Optimization
 
