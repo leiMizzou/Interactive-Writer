@@ -126,9 +126,7 @@ Synergistic chunking modules in Retrieval-Augmented Generation (RAG) systems aim
 
 ### 4.8 Automated Chunking Evaluation
 
----
 Automated chunking evaluation is essential for optimizing Retrieval-Augmented Generation (RAG) systems, ensuring that the chunking strategies employed are both effective and efficient. This evaluation can be facilitated through various techniques, such as content-defined chunking algorithms, which measure throughput, deduplication ratio, average chunk size, and chunk-size variance to assess performance. Additionally, unsupervised methods like hierarchical RNN models can be employed to evaluate chunking without manual annotations, improving the adaptability of RAG systems. Automated extraction of data slices can help identify underperforming chunks, ensuring that the RAG system meets business requirements. These methods collectively contribute to a robust and dynamic chunking evaluation process in RAG systems, aligning with the need for handling noisy or incomplete data, as discussed in the previous section on noise-incorporated chunking techniques. Furthermore, this evaluation is crucial for tailoring chunking strategies to specific domains, enhancing performance and relevance, as will be discussed in the following section on domain-specific chunking.
----
 
 ### 4.9 Chunking in Specific Domains
 
