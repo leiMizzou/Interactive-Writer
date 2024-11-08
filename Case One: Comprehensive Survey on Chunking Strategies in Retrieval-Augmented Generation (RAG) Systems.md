@@ -50,9 +50,7 @@ Chunking strategies in Retrieval-Augmented Generation (RAG) systems are essentia
 
 ### 2.7 Challenges in Implementing RAG Systems
 
----
 Effective chunking of retrieved information is a critical challenge in implementing RAG systems. Chunking strategies directly influence the quality and relevance of generated content, as poorly chunked data can lead to the inclusion of irrelevant or loosely related information, thereby reducing system accuracy and reliability. While existing methods often operate at the document level, which can be insufficient for filtering out irrelevant content, advanced techniques such as semantic chunking and LLM-based relevance scoring can enhance the filtering process at the chunk level, significantly improving factual accuracy and reducing hallucinations. However, developing and integrating such sophisticated chunking strategies remains a complex and resource-intensive task.
----
 
 ### 2.8 Future Directions in RAG Research
 
