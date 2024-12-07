@@ -1,5 +1,7 @@
 # InterActWriter
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 InterActWriter is a comprehensive tool designed to streamline academic survey generation, particularly in AI research fields. The project includes capabilities for managing and embedding academic papers, creating outlines and subsections, and efficiently interacting with large language models for text generation.
 
 ## Features
